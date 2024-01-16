@@ -14,7 +14,7 @@ How do we learn to visually understand our environment ? Recent advances showcas
 
 # Description
 
-Half-day workshop and tutorials will be held on May 20, 2024 (the first day of the meeting). More details to appear here soon!
+Half-day workshop and tutorials will be held on May 20, 2024 (the first day of the meeting). More details soon!
 
 # Submissions
 

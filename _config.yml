@@ -1,6 +1,5 @@
 title: Development of Visual Representations in Humans + Machines
 description: DVRHM Workshop @ ICDL 2024
-# description: Workshop @ [ICDL 2024](https://www.icdl.com/conferences/dir2024)
 
 timezone: US/Eastern
 
@@ -13,6 +12,9 @@ navigation:
   FAQ: "/faq"
 
 markdown: kramdown
+
+github:
+  repository: https://github.com/ICDL-DVRHM/icdl-dvrhm.github.io
 
 kramdown:
   parse_span_html: true
