@@ -1,0 +1,23 @@
+title:       Development of Visual Representations in Humans + Machines (DVRHM)
+description: Workshop at ICDL 2024
+
+timezone: US/Eastern
+
+navigation:
+  Home: "/"
+  Call for Papers: "/cfp"
+  Schedule: "/schedule"
+  Speakers: "/speakers"
+  Organizers: "/organizers"
+  FAQ: "/faq"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
