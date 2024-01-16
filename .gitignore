@@ -1,3 +1,12 @@
+# Local Development #
+###################
+_site/*
+
+# Jekyll + Ruby #
+###################
+Gemfile.lock
+.sass-cache/*
+
 # Compiled source #
 ###################
 *.com
