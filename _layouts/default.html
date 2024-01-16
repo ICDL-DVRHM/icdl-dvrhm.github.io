@@ -23,7 +23,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: page.title }}</h1>
+      <h1 class="project-name">{{ site.title | default: page.title | replace: "in ", "<br>in "}}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
       {% if site.logo %}
       <div class="logo-container">

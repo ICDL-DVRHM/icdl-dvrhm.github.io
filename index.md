@@ -5,7 +5,7 @@ title: Overview
 
 # Overview
 
-| **Date** | May 20, 2024 at [ICDL 2024](https://www.icdl.com/conferences/dir2024) |
+| **Date** | May 20, 2024 @ [ICDL 2024](https://www.icdl.com/conferences/dir2024) |
 | **Location** | Jacob Javits Convention Center, New York City |
 
 # Abstract
@@ -16,7 +16,7 @@ How do we learn to visually understand our environment ? Recent advances showcas
 
 Half-day workshop and tutorials will be held on May 20, 2024 (the first day of the meeting). More details to appear here soon!
 
-# Submitting Proposals
+# Submissions
 
 Proposals should be no more than two pages and should include a title, an abstract, a description of the workshop or tutorial concept, the target audience, a list of presenters, information on whether the session will be open to paper or poster submission, and a link to the workshop or tutorial website if applicable. Please make use of the template provided here.
 
