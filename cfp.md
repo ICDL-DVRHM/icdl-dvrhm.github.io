@@ -5,4 +5,4 @@ title: Call for Papers
 
 # Call for Papers
 
-Information on call to papers here.
+More details to appear here soon! Stay tuned.

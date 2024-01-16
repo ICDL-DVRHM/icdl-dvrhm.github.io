@@ -5,4 +5,4 @@ title: FAQ
 
 # FAQ
 
-Frequently asked questions here.
+More details to appear here soon! Stay tuned.

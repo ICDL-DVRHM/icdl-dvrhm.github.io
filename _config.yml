@@ -4,7 +4,7 @@ description: Workshop at ICDL 2024
 timezone: US/Eastern
 
 navigation:
-  Home: "/"
+  Overview: "/"
   Call for Papers: "/cfp"
   Schedule: "/schedule"
   Speakers: "/speakers"
