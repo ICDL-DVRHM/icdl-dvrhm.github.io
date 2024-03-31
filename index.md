@@ -16,7 +16,14 @@ How do we learn to visually understand our environment ? Recent advances showcas
 
 Half-day workshop and tutorials will be held on May 20, 2024 (the first day of the meeting). More details soon!
 
-# Submissions
+# Thank You!
 
-Proposals should be no more than two pages and should include a title, an abstract, a description of the workshop or tutorial concept, the target audience, a list of presenters, information on whether the session will be open to paper or poster submission, and a link to the workshop or tutorial website if applicable. Please make use of the template provided here.
+To our generous sponsors for helping to make this workshop possible:
 
+<div style="width:80%; margin: 0 auto">
+
+| [![Goethe Universität](assets/images/sponsors/goethe_uni.png){: height="200px" width="300px"}](https://www.goethe-university-frankfurt.de/en){: .align-center} | [![JQ Young Academy](assets/images/sponsors/jqya_goethe.png){: height="100px" width="400px"}](https://www.jqya.de/){: .align-center} |
+|:---:|:---:|
+| | |
+
+</div>

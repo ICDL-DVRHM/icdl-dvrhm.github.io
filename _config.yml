@@ -5,11 +5,9 @@ timezone: US/Eastern
 
 navigation:
   Overview: "/"
-  Call for Papers: "/cfp"
   Schedule: "/schedule"
   Speakers: "/speakers"
   Organizers: "/organizers"
-  FAQ: "/faq"
 
 markdown: kramdown
 

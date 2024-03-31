@@ -11,8 +11,7 @@
 ### Running Local Server
 
 ```zsh
-gem install webrick bundler
-gem install jekyll
+gem install webrick bundler jekyll
 bundle exec jekyll clean
 bundle exec jekyll serve
 ```
