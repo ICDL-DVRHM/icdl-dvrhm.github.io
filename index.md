@@ -5,8 +5,8 @@ title: Overview
 
 # Overview
 
-| **Date** | May 20, 2024 @ [ICDL 2024](https://www.icdl.com/conferences/dir2024) |
-| **Location** | Jacob Javits Convention Center, New York City |
+| **Date** | May 20, 2024 @ [ICDL 2024](https://la.utexas.edu/users/dil/ICDL_Austin_2024) |
+| **Location** | Austin, Texas |
 
 # Abstract
  
@@ -14,7 +14,7 @@ How do we learn to visually understand our environment ? Recent advances showcas
 
 # Description
 
-Half-day workshop and tutorials will be held on May 20, 2024 (the first day of the meeting). More details soon!
+Half-day workshop will be held on May 20, 2024 (the first day of the meeting). More details soon!
 
 # Thank You!
 

@@ -11,4 +11,4 @@ We are happy to currently feature these outstanding speakers:
 |:---:|:---:|:---:|:---:|
 | [Bria Long](https://www.brialong.com/)<br />University of California,<br />San Diego | [Justin Wood](https://www.buildingamind.com/)<br />Indiana University | [Tomer Ullman](https://www.tomerullman.org/)<br />Harvard University | [Dan Yamins](https://neuroailab.stanford.edu/)<br />Stanford University |
 
-More information on other speakers and topics to appear here soon!
+More information on the titles and abstracts of speakers talks to appear here soon!
