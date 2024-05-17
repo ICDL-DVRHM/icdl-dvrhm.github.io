@@ -12,7 +12,7 @@ This is the preliminary schedule of the workshop. All slots are provided in Cent
 | ------------ | ----------------|
 | 01:50--02:00 | Introduction    |
 | 02:00--02:45 | Justin Wood     |
-               | Mini-Evolutions as the Origins of Intelligence |
+|              | Mini-Evolutions as the Origins of Intelligence |
 | 02:45--03:30 | Dan Yamins      |
 | 03:30--03:45 | Coffee Break    |
 | 03:45--04:30 | Kristen Grauman |
