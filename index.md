@@ -14,7 +14,8 @@ How do we learn to visually understand our environment ? Recent advances showcas
 
 # Description
 
-Half-day workshop will be held on May 20, 2024 (the first day of the meeting). More details soon!
+Half-day workshop will be held on May 20, 2024 (the first day of the meeting). 
+Join us using this [link](https://uni-frankfurt.zoom-x.de/j/66714708374?pwd=Q0JLSVhuMUppam10TW5LN2NUY2RCQT09)
 
 # Thank You!
 
