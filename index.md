@@ -6,7 +6,7 @@ title: Overview
 # Overview
 
 | **Date** | May 20, 2024 @ [ICDL 2024](https://la.utexas.edu/users/dil/ICDL_Austin_2024) |
-| **Location** | Austin, Texas |
+| **Location** | Austin, Texas | 3.250 Seay Building
 
 # Abstract
  
