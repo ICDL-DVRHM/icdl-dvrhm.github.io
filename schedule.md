@@ -16,7 +16,8 @@ This is the preliminary schedule of the workshop. All slots are provided in Cent
 | 14:45-15:30 | Dan Yamins      |
 |             | **Towards Computational Models of Visual Development -- An Interim Report** |
 | 15:30-15:45 | Coffee Break    |
-| 15:45-16:30 | Kristen Grauman |
+| 15:45-16:30 | Kristen Grauman | 
+|             | **Learning visual representations from first-person video** |
 | 16:30-17:15 | Tomer Ullman    |
 |             | **Good enough: Approximate object representations in development, tracking, and imagination** |
 
